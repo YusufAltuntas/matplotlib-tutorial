@@ -2,7 +2,7 @@
 ![Logo](https://res.cloudinary.com/practicaldev/image/fetch/s--3H6dcjpe--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ydrrdbbx40u42fduzpgm.png)
 
     
-# **Matplotlib Türkçe Dokümentasyon **
+# **Matplotlib Türkçe Dokümentasyon**
 
 Bu dokümentasyonda veri bilimi yolculuğunuzda önemli bir kütüphane olan "Matplotlib" ile alakalı detaylı bir anlatım yapılmıştır.
 
