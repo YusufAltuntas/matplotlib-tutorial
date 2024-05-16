@@ -1,3 +1,7 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YusufAltuntas/matplotlib-tutorial/blob/main/matplotlib-turkce-dok%C3%BCmentasyon.ipynb#scrollTo=POmgIxkNmsOD)
+![Logo](/matplotlibicon.jpg)
+
+
 # **Matplotlib Eğitim Yol Haritamız:**
 
 1. **Matplotlib Nedir ve Neden Kullanılır?** 
